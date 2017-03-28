@@ -1,13 +1,8 @@
 Intro to programming
-
 Downloading development tools
-
 Documentation!
-
 Use Command Line (cd, ls, touch, open, documentation: https://ss64.com/osx/)
-
 Why Atom?
-
 Why GitHub?
 
 Download Atom
