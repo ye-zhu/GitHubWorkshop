@@ -10,8 +10,7 @@ https://atom.io/
 
 Download Developer Tools
 https://developer.apple.com/download/more/
-Username eerdae
-Pword Githubworkshop1
+
 
 GitHub and Html stuff
 https://github.com/ye-zhu/GitHubWorkshop
