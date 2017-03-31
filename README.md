@@ -15,21 +15,6 @@ https://developer.apple.com/download/more/
 GitHub and Html stuff
 https://github.com/ye-zhu/GitHubWorkshop
 
-Open a Github account
-remember your github username and pass
-
-Create a repository:
-For github pages:
-*yourname*.github.io
-
-git init
-git status
-git add -A
-git commit -m "first commit"
-git remote add origin https://github.com/ye-zhu/GitHubWorkshop.git
-git push -u origin master
-
-
 Git troubleshooting:
 https://help.github.com/articles/setting-your-username-in-git/
 http://mherman.org/blog/2013/09/16/managing-multiple-github-accounts/#.WNbXcyld5z8
